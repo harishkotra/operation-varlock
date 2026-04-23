@@ -1,0 +1,6 @@
+{
+  "name": "TERMINAL_HEIST: Operation Varlock",
+  "description": "A high-stakes prompt injection hacking game. Trick Varlock-1, the security-obsessed AI SysAdmin, into revealing corporate secrets while bypassing real-time redaction shields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
