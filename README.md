@@ -2,6 +2,7 @@
 
 > **"Grey Hat" prompt injection simulation. Hack the AI's mind, skip the code."**
 
+<img width="848" height="720" alt="operation-varlock-1" src="https://github.com/user-attachments/assets/68b83417-34f3-49f4-9043-34220796d116" />
 
 ## Table of Contents
 - [The Pitch](#-the-pitch)
